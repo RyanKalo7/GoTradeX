@@ -1,0 +1,2 @@
+# GoTradeX
+Live Trading 
